@@ -1,0 +1,163 @@
+
+.mlp{
+    width: 150px;
+    height: 100px;
+}
+.sig{
+    float: left;
+    border: 2px solid black;
+    background-image: linear-gradient(#D9AFD9,#97D9E1);
+    border-radius: 10px;
+}
+.abt{
+    border: 2px solid black;
+    background-image: linear-gradient(#D9AFD9,#97D9E1);
+    border-radius: 10px;
+}
+.btn-sg{
+    background-color: dodgerblue;
+    border: none;
+    border-radius: 15px;
+}
+.btn-rm{
+    background-color: dodgerblue;
+    border: none;
+    border-radius: 15px;
+}
+.ig{
+    background-image: url(./kozhikode.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+    border-radius: 20px;
+}
+.ig-1{
+    background-image: url(./3r.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+    border-radius: 20px;
+}
+.ig-2{
+    background-image: url(./boat.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+    border-radius: 20px;
+}
+.igg{
+    background-image: url(./malappuram.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+    border-radius: 20px;
+}
+.igg-1{
+    background-image: url(./fog.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+    border-radius: 20px;
+}
+.igg-2{
+    background-image: url(./lake.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+    border-radius: 20px;
+}
+.iggg{
+    background-image: url(./wayanad.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+    border-radius: 20px;
+}
+.iggg-1{
+    background-image: url(./tree.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+    border-radius: 20px;
+}
+.iggg-2{
+    background-image: url(./boat.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+    border-radius: 20px;
+}
+.new-1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+ul{
+    list-style: none;
+}
+.footer-1{
+    width: 25%;
+    padding: 0 20px;
+}
+.footer{
+    padding: 70px;
+}
+.footer-1 h4{
+    font-size: 14px;
+    color: blue;
+    text-transform: capitalize;
+    margin-bottom: 30px;
+}
+.footer-1 ul li a{
+    font-size: 15px;
+    text-transform: capitalize;
+    text-decoration: none;
+    color: black;
+    display: block;
+}
+.section-2{
+    display: flex;
+    justify-content: center;
+    
+}
+.footer-1 li a:hover{
+    color: dodgerblue;
+}
+hr{
+    padding: 2px;
+    color: black;
+    background-color: black;
+}
+.section-3{
+    display: flex;
+    justify-content: center;
+}
+.suu{
+    font-size: 25px;
+}
+.ttt{
+    text-decoration: none;
+    color: black;
+}
+.btn-sub{
+    background-color: dodgerblue;
+    border: none;
+    border-radius: 15px;
+    width: 100%;
+}
+
+.inp-frm{
+    width: 100%;
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.inpu-1{
+    background: transparent;
+    border-radius: 5px;
+    border: 1px solid white;
+}
+::placeholder{
+    color:black;
+}
